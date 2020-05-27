@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40007" started-at="2020-02-28T12:19:06Z" finished-at="2020-02-28T12:19:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40007" started-at="2020-02-28T12:19:06Z" finished-at="2020-02-28T12:19:46Z">
+      <class name="com.phptravel.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="setUp" is-config="true" duration-ms="23507" started-at="2020-02-28T17:49:06Z" finished-at="2020-02-28T17:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageTitleTest()[pri:1, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="validatePageTitleTest" duration-ms="128" started-at="2020-02-28T17:49:29Z" finished-at="2020-02-28T17:49:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="tearDown" is-config="true" duration-ms="1195" started-at="2020-02-28T17:49:30Z" finished-at="2020-02-28T17:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="setUp" is-config="true" duration-ms="12582" started-at="2020-02-28T17:49:31Z" finished-at="2020-02-28T17:49:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogin()[pri:3, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="validateLogin" duration-ms="1674" started-at="2020-02-28T17:49:43Z" finished-at="2020-02-28T17:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.phptravel.qa.testcases.LoginPageTest@2aaf7cc2]" test-instance-name="" name="tearDown" is-config="true" duration-ms="801" started-at="2020-02-28T17:49:45Z" finished-at="2020-02-28T17:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.phptravel.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
