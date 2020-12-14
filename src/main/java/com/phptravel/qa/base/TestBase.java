@@ -21,7 +21,7 @@ public class TestBase {
 		prop = new Properties();
 		try {
 			FileInputStream file = new FileInputStream(
-					"C:\\Users\\USER\\Desktop\\Selenium\\phptravel\\src\\main\\java\\com\\phptravel\\qa\\config\\config.properties");
+					"src\\main\\java\\com\\phptravel\\qa\\config\\config.properties");
 			prop.load(file);
 		} catch (FileNotFoundException e) {
 
